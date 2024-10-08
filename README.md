@@ -1,3 +1,4 @@
+# Netflix 
 The purpose of this project is to demonstrate data cleaning and visualization skills using a Netflix dataset. The dataset includes content from 2008 to 2021, with content dating back as far as 1925.
 Data Preparation and Cleaning
 1.
